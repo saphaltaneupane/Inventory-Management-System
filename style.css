@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    display:flex;
+    background-color: blue;
+    height:50px;
+    color:white;
+    
+}
+.welcome{
+    padding-left:800px;
+    padding-top:10px;
+}
+.inventory{
+    padding-left: 300px;
+    padding-top: 10px;
+}
+/* nav{
+    display: flex;
+    background-color: blue;
+    color: white;
+}
+ul{
+    padding-left: 40px;
+} */
+.list{
+    display: grid;
+    color: aqua;
+    padding: 15px 5px 5px 5px;
+    
+}
+a{
+    text-decoration: none;
+}
+button{
+    background-color: blue;
+    color:white;
+    border:2px solid blue;
+}
