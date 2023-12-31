@@ -30,9 +30,8 @@ ul{
      display: grid; 
     color: aqua;
     padding: 15px 5px 5px 5px;
-    width: 100px;
-    
-    
+    width: 10%;
+    height:100%;
 }
 a{
     text-decoration: none;
